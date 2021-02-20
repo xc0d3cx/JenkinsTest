@@ -10,7 +10,7 @@ namespace JenkinsTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Jenkins Test 3");
+            Console.WriteLine("Jenkins Test 4");
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace JenkinsTest
 {
-    class Calc
+    public class Calc
     {
         public int Add(int a, int b)
         {

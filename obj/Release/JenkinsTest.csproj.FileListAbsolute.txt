@@ -1,0 +1,6 @@
+C:\GIT\JenkinsTest\bin\Release\JenkinsTest.exe.config
+C:\GIT\JenkinsTest\bin\Release\JenkinsTest.exe
+C:\GIT\JenkinsTest\bin\Release\JenkinsTest.pdb
+C:\GIT\JenkinsTest\obj\Release\JenkinsTest.csprojResolveAssemblyReference.cache
+C:\GIT\JenkinsTest\obj\Release\JenkinsTest.exe
+C:\GIT\JenkinsTest\obj\Release\JenkinsTest.pdb

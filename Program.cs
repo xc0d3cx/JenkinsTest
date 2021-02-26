@@ -12,7 +12,7 @@ namespace JenkinsTest
 
             var calc = new Calc();
 
-            Console.WriteLine("+++++++++++++++++++++++++++");
+            Console.WriteLine("+++++++++ test +++++++++++");
 
             Console.Write("Enter first number: ");
             input1 = Convert.ToInt32(Console.ReadLine());

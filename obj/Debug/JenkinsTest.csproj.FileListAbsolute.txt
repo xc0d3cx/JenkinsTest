@@ -1,7 +1,6 @@
 C:\GIT\JenkinsTest\bin\Debug\JenkinsTest.exe.config
 C:\GIT\JenkinsTest\bin\Debug\JenkinsTest.exe
 C:\GIT\JenkinsTest\bin\Debug\JenkinsTest.pdb
-C:\GIT\JenkinsTest\obj\Debug\JenkinsTest.csprojAssemblyReference.cache
 C:\GIT\JenkinsTest\obj\Debug\JenkinsTest.csproj.CoreCompileInputs.cache
 C:\GIT\JenkinsTest\obj\Debug\JenkinsTest.exe
 C:\GIT\JenkinsTest\obj\Debug\JenkinsTest.pdb
